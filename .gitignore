@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+*.pkl
+*.py~
+*.bak
+*.log
+__pycache__/
+
+*.png
+*.csv
+*.pth
